@@ -19,5 +19,6 @@ Conclusion
 This stellar classification model is a powerful tool that can be used to identify and classify stars with high accuracy. The model is easy to use and deploy, making it a valuable resource for astronomers and anyone else interested in stellar classification.
 
 ![image](https://github.com/ShadowMonarch001/ML/assets/129870255/614dc3c7-b27a-462d-89a4-f4215ae33208)
+![image](https://github.com/ShadowMonarch001/ML/assets/129870255/758ffe74-2476-4f3d-8dab-6ed34ee89108)
 
 
